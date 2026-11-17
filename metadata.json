@@ -1,0 +1,6 @@
+{
+  "name": "S7-1200 PLC Lab 3: Analog Signal Processing",
+  "description": "Hướng dẫn giải chi tiết, mã nguồn TIA Portal (LAD & SCL), sơ đồ đấu dây và mô phỏng tương tác cho Lab 3: Xử lý tín hiệu tương tự trên PLC Siemens S7-1200.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
